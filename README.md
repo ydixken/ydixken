@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 👋 Hey there, I'm Yannick! (he/him) - A Freelance Senior DevOps Engineer with an E-Commerce & Managed Hosting background. </p>
+
+<p align="center">My key hardskills include (but are not limited too-) Ansible, Puppet, NGiNX, Apache, Python 2/3, Node.js, zsh, the  whole Elastic Inc. stack, Zabbix, Prometheus, (Percona-)MySQL, NoSQL, Jenkins, Rundeck, GitHub Actions, GitLab CI </p>
+
+<p align="center"> Some buzzwords: Automation, CI/CD, Loadbalancing, High Availability, Horizontal Scaling, Performance Tuning & Security. </p>
+
+<p align="center"> ⚡ I'm totally into CTFs: working preferably on Web Application / Reverse Engineering challenges, if time allows.  </p>
+  
